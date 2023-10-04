@@ -1,6 +1,6 @@
 # Name:         Graph Generator
 # Date:         1/13/2022
-# Programmers:  Abhusha Ghimire, others (no names for privacy)
+# Programmers:  Abhusha Ghimire
 # Description:  Creates a graph.
 
 import tkinter
